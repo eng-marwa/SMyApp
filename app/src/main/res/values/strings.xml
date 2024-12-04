@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMyApp</string>
+    <string name="click">Click here</string>
+    <string name="hello">Hwllo World!</string>
+</resources>
